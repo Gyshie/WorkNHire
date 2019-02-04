@@ -1,5 +1,6 @@
 # WorkNHire
 
+This group project has done for the Level 2 Software Project. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
 ## Development server
